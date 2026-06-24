@@ -91,13 +91,13 @@ cp -r ultimate-b2b-outreach/ultimate-b2b-outreach ~/.workbuddy/skills/
 | 占位符 | 替换为 | 示例 |
 |--------|--------|------|
 | `[Your Name]` | 你的姓名 | Barry Chen |
-| `[Your Company]` | 你的公司名 | Riotouch Technology |
-| `[Company]` | 你的公司简称 | Riotouch |
-| `[company].com` | 你的域名 | riotouch.com |
-| `[Product Series]` | 你的产品系列名 | LTC Series |
-| `[Model]` | 你的产品型号 | LTC-86 |
+| `[Your Company]` | 你的公司名 | XX Technology |
+| `[Company]` | 你的公司简称 | XX |
+| `[company].com` | 你的域名 | XXX.com |
+| `[Product Series]` | 你的产品系列名 | XX Series |
+| `[Model]` | 你的产品型号 | XXX |
 | `[Size]` | 你的产品尺寸 | 65"-110" |
-| `[OS Name]` | 你的操作系统名 | Daisy OS |
+| `[OS Name]` | 你的操作系统名 | XXX OS |
 | `Brand A / Brand B / Brand C` | 你的主要竞品名 | ViewSonic / BenQ / MAXHUB |
 
 > 💡 **提示**：用 VS Code 的「在文件中查找并替换」（`Ctrl+Shift+H`）一键批量替换。
